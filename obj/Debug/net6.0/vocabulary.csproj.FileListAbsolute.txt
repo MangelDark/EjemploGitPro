@@ -1,0 +1,15 @@
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/bin/Debug/net6.0/vocabulary
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/bin/Debug/net6.0/vocabulary.deps.json
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/bin/Debug/net6.0/vocabulary.runtimeconfig.json
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/bin/Debug/net6.0/vocabulary.dll
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/bin/Debug/net6.0/vocabulary.pdb
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.csproj.AssemblyReference.cache
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.AssemblyInfoInputs.cache
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.AssemblyInfo.cs
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.csproj.CoreCompileInputs.cache
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.dll
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/refint/vocabulary.dll
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.pdb
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/vocabulary.genruntimeconfig.cache
+/Users/mangeldarks/Documents/GitHub/chapter01-vscode/chapter-2/vocabulary/obj/Debug/net6.0/ref/vocabulary.dll
